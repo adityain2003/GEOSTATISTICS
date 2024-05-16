@@ -1,3 +1,4 @@
+    ! This code performs Kriging at a target location on the basis of known data and variogram parameters
     PROGRAM KRIGING
 
     INTEGER::I,J,K,P
